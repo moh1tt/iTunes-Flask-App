@@ -47,7 +47,7 @@ jupyter_client==7.4.2
 jupyter_core==4.11.2
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.3
-lxml==4.6.3
+lxml==4.9.3
 Markdown==3.4.4
 markdown2==2.4.10
 MarkupSafe==2.1.1
@@ -65,7 +65,7 @@ nest-asyncio==1.5.6
 nltk==3.8.1
 notebook==6.5.1
 notebook_shim==0.2.0
-openpyxl==3.0.8
+openpyxl==3.0.9
 packaging==21.3
 paginate==0.5.6
 pandocfilters==1.5.0
@@ -77,6 +77,7 @@ pickleshare==0.7.5
 platformdirs==2.5.2
 prometheus-client==0.15.0
 prompt-toolkit==3.0.31
+psutil==5.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyasn1==0.4.8
@@ -110,6 +111,7 @@ stack-data==0.5.1
 starlette==0.25.0
 terminado==0.16.0
 tinycss2==1.2.1
+toml==0.10.2
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.5.0

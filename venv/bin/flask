@@ -1,4 +1,4 @@
-#!/Users/mohit/Documents/Code/iTunes/venv/bin/python3
+#!/Users/mohit/Documents/Code/iTunes-music-api/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
